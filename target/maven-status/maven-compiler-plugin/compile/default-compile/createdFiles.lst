@@ -1,0 +1,7 @@
+serveur\mobile\boot\Application.class
+serveur\mobile\config\Config.class
+serveur\mobile\metier\TemperatureException.class
+serveur\mobile\web\TemperatureReponse.class
+serveur\mobile\metier\IMetier.class
+serveur\mobile\metier\Metier.class
+serveur\mobile\web\TemperatureController.class
